@@ -1,8 +1,8 @@
 const articledata = [
   {
       "id": 1,
-      "title": "Introduction to Mongoose",
-      "body": "Mongoose is a popular MongoDB ODM library for Node.js...",
+      "title": "Norebase",
+      "body": "The easiest way to start, scale and operate your business Whether you're registering a new business in Nigeria, trying to protect your company's intellectual property in Kenya, or expanding to the U.S, we've got you covered.",
       "likes": 25
   },
   {
